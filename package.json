@@ -3,6 +3,16 @@
     "displayName": "sunset-fox",
     "description": "Based on sunset-fox image",
     "version": "0.0.1",
+    "publisher": "edwinnm",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edwinnm/Sunset-fox-vscTheme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "sunset"
+    ],
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -10,12 +20,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Sunset-fox",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Sunset-fox-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Sunset-fox",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Sunset-fox-color-theme.json"
+        }]
     }
 }
