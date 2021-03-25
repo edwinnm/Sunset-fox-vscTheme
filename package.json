@@ -1,0 +1,21 @@
+{
+    "name": "sunset-fox",
+    "displayName": "sunset-fox",
+    "description": "Based on sunset-fox image",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sunset-fox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sunset-fox-color-theme.json"
+            }
+        ]
+    }
+}
