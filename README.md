@@ -9,14 +9,14 @@ https://www.youtube.com/watch?v=pGzssFNtWXw
 ### Examples
 
 #### HTML
-![](img/html.jpg)
+![](img/html.JPG)
 
 #### CSS
-![](img/css.jpg)
+![](img/css.JPG)
 
 
 ### JS
-![](img/js.jpg)
+![](img/js.JPG)
 
 
 ### For more information
